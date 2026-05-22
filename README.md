@@ -1,1 +1,1 @@
-# G7_Final-Proposal-_ATLAS-KM
+# G7_Final-Proposal_ATLAS-KM
