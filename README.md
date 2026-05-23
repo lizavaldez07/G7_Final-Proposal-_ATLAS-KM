@@ -6,6 +6,10 @@ ATLAS-KM is a scalable, multimodal machine learning pipeline that fuses **housin
 
 ---
 
+Dataset source: [HouseTS Dataset on Kaggle](https://www.kaggle.com/datasets/shengkunwang/housets-dataset)
+
+---
+
 ## Overview
 
 The pipeline constructs a *Geography × Wealth* latent space by combining:
