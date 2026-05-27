@@ -1,6 +1,12 @@
 # ATLAS-KM: Analysis of Temporal and Locational Aspects of Socioeconomic Housing Using K-Means Clustering
 
-End-to-end big data ML pipeline that clusters U.S. housing neighborhoods by combining **satellite/street-view images** (MobileNetV2 embeddings) with **tabular socioeconomic data** (Redfin HouseTS), all orchestrated through **Apache Spark**.
+# Dataset
+
+Due to GitHub file size limitations, the dataset is hosted on Google Drive.
+
+https://drive.google.com/drive/folders/1zzuYw4VGmJ2GQU1Dp40Ex0it_Ui51AVJ?usp=sharing
+
+An end-to-end big data ML pipeline that clusters U.S. housing neighborhoods by combining **satellite/street-view images** (MobileNetV2 embeddings) with **tabular socioeconomic data** (Redfin HouseTS), all orchestrated through **Apache Spark**.
 
 ---
 
