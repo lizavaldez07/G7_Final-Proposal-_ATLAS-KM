@@ -1,4 +1,4 @@
-# HouseTS: Spatiotemporal Housing Image Clustering
+# ATLAS-KM: Analysis of Temporal and Locational Aspects of Socioeconomic Housing Using K-Means Clustering
 
 End-to-end big data ML pipeline that clusters U.S. housing neighborhoods by combining **satellite/street-view images** (MobileNetV2 embeddings) with **tabular socioeconomic data** (Redfin HouseTS), all orchestrated through **Apache Spark**.
 
